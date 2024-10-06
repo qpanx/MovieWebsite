@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../imgs(Ahmed)"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Movie Website (Game Of Thrones Page)"
+	}
+}
